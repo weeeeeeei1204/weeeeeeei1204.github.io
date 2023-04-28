@@ -1,0 +1,250 @@
+body {
+    height: 4000px;/* 把頁面拉高 */
+    width: 100%;
+    background:#ffffff; /* 整個網頁的背景色 */
+}
+
+.bg-yellow {
+    background:#efefef;
+}
+
+.logo{
+    width: 88px;
+    font-size:17px;
+    font-family:serif,sans-serif,cursive,fantasy,monospace
+}
+.icon{
+    width: 71px;
+}
+
+.menu{
+    font-size:17px;
+    font-family:serif,sans-serif,cursive,fantasy,monospace   
+}
+
+.container {
+    margin-top: 50px; /* 把圖片往下放 */
+    width: 1000px;
+    height: 700px;
+}
+.p1{
+    width: 300px;
+    font-size:13px;
+    position:absolute;
+    top:250px;
+    left:80px;
+    color: black;
+    font-weight:500;
+}
+.p2{
+    width: 320px;
+    font-size:13px;
+    position:absolute;
+    top:650px;
+    left:80px;
+    color: black;
+    font-weight:500;
+}
+.p3{
+    width: 320px;
+    font-size:100px;
+    position:absolute;
+    top:520px;
+    left:1200px;
+    color: #3b1a04;
+    font-weight:bold;
+    font-family:微軟正黑體;
+}
+.p4{
+    width: 320px;
+    font-size:13px;
+    position:absolute;
+    top:650px;
+    left:1130px;
+    color: black;
+    font-weight:500;
+}
+
+.bg-brown{
+    background: #2d1403;
+}
+.container2{
+    height: 600px;
+    color: #ececeb;
+}
+.h2{
+    font-size:50px;
+    position:absolute;
+    top:1000px;
+    left:80px;
+}
+
+.h3{
+    font-size:50px;
+    position:absolute;
+    top:1060px;
+    left:180px;
+}
+.h4{
+    font-size:100px;
+    position:absolute;
+    top:1000px;
+    left:235px;
+}
+.h5{
+    font-size:50px;
+    position:absolute;
+    top:1060px;
+    left:440px;
+}
+.h6{
+    width: 450px;
+    font-size:15px;
+    position:absolute;
+    top:1200px;
+    left:180px;
+    letter-spacing:1px;
+    color: rgb(255, 255, 255);
+    font-weight:300;
+}
+.h7{
+    width: 450px;
+    font-size:15px;
+    position:absolute;
+    top:1270px;
+    left:180px;
+    letter-spacing:1px;
+    color: rgb(255, 255, 255);
+    font-weight:300;
+}
+
+.photo1{
+    width: 230px;
+    height: 200px;
+    position:absolute;
+    top:1000px;
+    left:900px;
+}
+.photo2{ 
+    width: 230px;
+    height: 200px;
+    position:absolute;
+    top:1000px;
+    left:1150px;
+}
+.photo3{ 
+    width: 230px;
+    height: 200px;
+    position:absolute;
+    top:1200px;
+    left:1020px;
+}
+.photo4{ 
+    width: 230px;
+    height: 200px;
+    position:absolute;
+    top:1200px;
+    left:770px;
+}
+
+.main2{
+    width: 900px;
+    height: 720px;
+    position:absolute;
+    top: 1550px;
+    right: 0px;
+}
+.h8{
+    font-size:50px;
+    position:absolute;
+    top:1550px;
+    left:80px;
+    font-weight:500;
+    color: #3b1a04;
+}
+.h9{
+    font-size:15px;
+    width: 380px;
+    position:absolute;
+    top:1700px;
+    left:100px;
+    font-weight:400;
+    color:black;
+}
+
+.container3{
+    background: #ffffff;
+    height: 800px;
+    width: 100%;
+    
+}
+.container4{
+    background: #f4f1ef;
+    height: 1000px;
+    width: 100%;
+}
+
+.Title2{
+    font-size:30px;
+    position:absolute;
+    top:2350px;
+    left:80px;
+    font-weight:500;
+    color: #3b1a04;
+}
+.photo-box{
+    width: 1150px;
+    height: 800px;
+}
+.p-1{
+    font-weight:500;
+    font-size: 25px;
+}
+.p-2{
+    font-weight:300;
+    letter-spacing:1px;
+    color: #4a4a4a;
+}
+.cart{
+    width: 150px;
+}
+.container5{
+    height: 3000px;
+    width: 100%; 
+}
+.bg-gray{
+    width: 100%;
+    height: 1000px;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f4f1ef+0,b79e8d+35,8c6a53+62,593321+92,382216+100 */
+background: #f4f1ef; /* Old browsers */
+background: -moz-linear-gradient(top,  #f4f1ef 0%, #b79e8d 35%, #8c6a53 62%, #593321 92%, #382216 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f4f1ef 0%,#b79e8d 35%,#8c6a53 62%,#593321 92%,#382216 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f4f1ef 0%,#b79e8d 35%,#8c6a53 62%,#593321 92%,#382216 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f1ef', endColorstr='#382216',GradientType=0 ); /* IE6-9 */
+
+}
+.p5{
+   position:absolute;
+   color: #ffffff;
+   margin-top: 680px;
+   width: 600px;
+   left:720px;
+   font-size: 30px;
+   font-family:serif,sans-serif,cursive,fantasy,monospace
+
+}
+.logo3{
+   position:absolute;
+   margin-top: 600px;
+   width: 250px;
+   left:420px;
+}
+
+.fixed-bottom-right {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 70px; /* 設置圖片寬度 */
+    height: 85px; /* 設置圖片高度 */
+  }
+
